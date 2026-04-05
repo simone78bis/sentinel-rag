@@ -35,6 +35,13 @@ Il cuore della metodologia è l'imposizione di vincoli deterministici:
 - **PATH DETERMINISM**: Uso obbligatorio di percorsi assoluti per la riproducibilità.
 - **CONTEXT SYNC**: Obbligo di aggiornare la documentazione MD *prima* di chiudere la sessione.
 
+  ---
+## 🛡️  Prova di Originalità
+
+Qui sotto il timestamp verificato di GitHub che conferma la creazione della metodologia nel 2025.
+
+![Sentinel-MD 2025 Proof](./proofs/original_commit_timestamp_2025.png)
+
 ---
 
 <a name="english-version"></a>
@@ -64,3 +71,11 @@ The methodology shifts the "Single Source of Truth" to an external, human-readab
 
 ## 📜 License
 Distributed under MIT License. See `LICENSE` for details.
+
+
+---
+## 🛡️ Proof of Originality (2025) 
+Below is the verified GitHub timestamp confirming this methodology was established in 2025.
+
+
+![Sentinel-MD 2025 Proof](./proofs/original_commit_timestamp_2025.png)
